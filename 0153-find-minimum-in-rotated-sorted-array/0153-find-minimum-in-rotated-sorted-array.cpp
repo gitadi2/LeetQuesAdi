@@ -14,7 +14,7 @@ public:
                 low=guess+1;
             }
             else{
-                // nums[guess]<nums[guess+1]
+                // nums[guess]<nums[n-1]
                 res=guess;
                 high=guess-1;
             }
