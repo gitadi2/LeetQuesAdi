@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/gitadi2/LeetQuesAdi/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/gitadi2/LeetQuesAdi/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/gitadi2/LeetQuesAdi/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/gitadi2/LeetQuesAdi/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
