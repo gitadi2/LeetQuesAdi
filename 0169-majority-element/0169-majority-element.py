@@ -1,0 +1,22 @@
+class Solution:
+    def majorityElement(self, nums):
+
+        n=len(nums)
+        candidate=0      # candidate ka track rakhney k liye
+        count=0          # count rakhney k liye
+
+        for i in range(n):
+
+            # if count 0 hogya
+            if count==0:
+                candidate=nums[i]      # nya candidate bnaa doo
+
+            # agar same no. of candidate hotey hai as the array size
+            if nums[i]==candidate:
+                # toh count ko badha do
+                count+=1
+            else:
+                # count ko ghata do
+                count-=1
+
+        return candidate
