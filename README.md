@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/gitadi2/LeetQuesAdi/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0409-longest-palindrome) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/gitadi2/LeetQuesAdi/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/gitadi2/LeetQuesAdi/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0275-h-index-ii) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gitadi2/LeetQuesAdi/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0347-top-k-frequent-elements) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
