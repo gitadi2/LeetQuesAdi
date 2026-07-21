@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/gitadi2/LeetQuesAdi/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/gitadi2/LeetQuesAdi/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0125-valid-palindrome) |
 | [0658-find-k-closest-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0658-find-k-closest-elements) |
 ## Array
 |  |
