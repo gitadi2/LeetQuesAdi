@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gitadi2/LeetQuesAdi/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/gitadi2/LeetQuesAdi/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gitadi2/LeetQuesAdi/tree/master/0084-largest-rectangle-in-histogram) |
@@ -228,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/gitadi2/LeetQuesAdi/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
