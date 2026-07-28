@@ -11,19 +11,27 @@
  */
 class Solution {
 public:
-    TreeNode* invertTree(TreeNode* root) {
-        // agar tree ka main node hi nhi hai 
+
+    void fun(TreeNode* root){
+
+        // Agar Tree ka main node hi nhi hai
         if(root==nullptr){
-            return nullptr;
+            return;
         }
 
-        swap(root->left,root->right);                // Parent root node bolega apney child ko swap honey 
+        // Parent Root node bolega apne bachcho ko swap hone
+        swap(root->left,root->right);
 
-        // jsab parent root node wley ke kids swap hogye toh whi bachoo ke bachey bhi toh hongey 
-        // left k liye 
-        invertTree(root->left);
-        // right k liye 
-        invertTree(root->right);
+        // Left Subtree ko invert karlo
+        fun(root->left);
+
+        // Right Subtree ko invert karlo
+        fun(root->right);
+    }
+
+    TreeNode* invertTree(TreeNode* root) {
+        // Recursive Function Call kardo
+        fun(root);
 
         return root;
     }
