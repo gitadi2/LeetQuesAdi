@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gitadi2/LeetQuesAdi/tree/master/1189-maximum-number-of-balloons) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gitadi2/LeetQuesAdi/tree/master/1189-maximum-number-of-balloons) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gitadi2/LeetQuesAdi/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gitadi2/LeetQuesAdi/tree/master/1189-maximum-number-of-balloons) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/gitadi2/LeetQuesAdi/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/gitadi2/LeetQuesAdi/tree/master/0973-k-closest-points-to-origin) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -298,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gitadi2/LeetQuesAdi/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
