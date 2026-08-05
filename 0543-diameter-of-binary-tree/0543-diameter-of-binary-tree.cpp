@@ -25,7 +25,7 @@ int fun(TreeNode*root){
     int sum=left+right;                 // left subtree ki value + right subtree ki value
     res=max(res,sum);                   // Final Ans mei res and sum se max jio hai wo aaega 
 
-    return 1+max(left,right);
+    return 1+max(left,right);           // 1 man lo turning pt hai isliye 1 lia 
 }
 
     int diameterOfBinaryTree(TreeNode* root) {
