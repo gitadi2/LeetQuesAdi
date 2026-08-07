@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/gitadi2/LeetQuesAdi/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0169-majority-element) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/gitadi2/LeetQuesAdi/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0240-search-a-2d-matrix-ii) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0113-path-sum-ii) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0113-path-sum-ii) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitadi2/LeetQuesAdi/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0700-search-in-a-binary-search-tree) |
