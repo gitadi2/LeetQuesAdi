@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gitadi2/LeetQuesAdi/tree/master/1189-maximum-number-of-balloons) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/gitadi2/LeetQuesAdi/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gitadi2/LeetQuesAdi/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gitadi2/LeetQuesAdi/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gitadi2/LeetQuesAdi/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/gitadi2/LeetQuesAdi/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gitadi2/LeetQuesAdi/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
@@ -400,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/gitadi2/LeetQuesAdi/tree/master/0547-number-of-provinces) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/gitadi2/LeetQuesAdi/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/gitadi2/LeetQuesAdi/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
