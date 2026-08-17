@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gitadi2/LeetQuesAdi/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gitadi2/LeetQuesAdi/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gitadi2/LeetQuesAdi/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gitadi2/LeetQuesAdi/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/gitadi2/LeetQuesAdi/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gitadi2/LeetQuesAdi/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/gitadi2/LeetQuesAdi/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/gitadi2/LeetQuesAdi/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitadi2/LeetQuesAdi/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/gitadi2/LeetQuesAdi/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gitadi2/LeetQuesAdi/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -373,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/gitadi2/LeetQuesAdi/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gitadi2/LeetQuesAdi/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 ## Brainteaser
 |  |
 | ------- |
@@ -409,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gitadi2/LeetQuesAdi/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gitadi2/LeetQuesAdi/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/gitadi2/LeetQuesAdi/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -439,4 +446,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/gitadi2/LeetQuesAdi/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
