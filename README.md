@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/gitadi2/LeetQuesAdi/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/gitadi2/LeetQuesAdi/tree/master/0383-ransom-note) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/gitadi2/LeetQuesAdi/tree/master/0127-word-ladder) |
 | [0383-ransom-note](https://github.com/gitadi2/LeetQuesAdi/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/gitadi2/LeetQuesAdi/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/gitadi2/LeetQuesAdi/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gitadi2/LeetQuesAdi/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0226-invert-binary-tree) |
@@ -465,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/gitadi2/LeetQuesAdi/tree/master/0778-swim-in-rising-water) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/gitadi2/LeetQuesAdi/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
