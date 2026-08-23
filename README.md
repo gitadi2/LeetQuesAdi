@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/gitadi2/LeetQuesAdi/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/gitadi2/LeetQuesAdi/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/gitadi2/LeetQuesAdi/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -273,12 +274,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/gitadi2/LeetQuesAdi/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gitadi2/LeetQuesAdi/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gitadi2/LeetQuesAdi/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
