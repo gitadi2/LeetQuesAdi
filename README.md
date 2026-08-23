@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gitadi2/LeetQuesAdi/tree/master/1189-maximum-number-of-balloons) |
+| [1927-sum-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gitadi2/LeetQuesAdi/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gitadi2/LeetQuesAdi/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/gitadi2/LeetQuesAdi/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/gitadi2/LeetQuesAdi/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
+| [1927-sum-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/gitadi2/LeetQuesAdi/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/gitadi2/LeetQuesAdi/tree/master/0973-k-closest-points-to-origin) |
+| [1927-sum-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gitadi2/LeetQuesAdi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gitadi2/LeetQuesAdi/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/0292-nim-game) |
+| [1927-sum-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/1927-sum-game) |
 ## Counting Sort
 |  |
 | ------- |
