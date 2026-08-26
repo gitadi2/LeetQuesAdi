@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/gitadi2/LeetQuesAdi/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gitadi2/LeetQuesAdi/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gitadi2/LeetQuesAdi/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0658-find-k-closest-elements) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gitadi2/LeetQuesAdi/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Merge Sort
 |  |
