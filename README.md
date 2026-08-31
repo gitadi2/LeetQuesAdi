@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0416-partition-equal-subset-sum) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0658-find-k-closest-elements) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/gitadi2/LeetQuesAdi/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/gitadi2/LeetQuesAdi/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0509-fibonacci-number) |
@@ -548,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0494-target-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
