@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/gitadi2/LeetQuesAdi/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/gitadi2/LeetQuesAdi/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gitadi2/LeetQuesAdi/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/0292-nim-game) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/gitadi2/LeetQuesAdi/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gitadi2/LeetQuesAdi/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/gitadi2/LeetQuesAdi/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/0300-longest-increasing-subsequence) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/gitadi2/LeetQuesAdi/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gitadi2/LeetQuesAdi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search Tree
