@@ -1,41 +1,39 @@
-//By Memoization method in DP 
+// By Tabulation Methon in DP
 
 class Solution {
 public:
-int fun(vector<int>&prices,int n,int i,int k,vector<vector<int>>&dp){
-    // Base Case bna Lo: Jab Last din mei pahunch gya and koi trans nhi ho 
-    if(i==n){
-        return 0;
-    }
-    if(k==0){
-        return 0;
-    }
-    // Ab Dekhlo agar pheley se hi dp mei hua toh 
-    if(dp[i][k]!=-1){
-        // Yani ki DP mei mil gya 
-        return dp[i][k];
-    }
-    // Ab Buy wla case lelo 
-    if(k==2){
-        int c1=fun(prices,n,i+1,k-1,dp)-prices[i];        // Buy karli toh ghatega hi 
-        int c2=fun(prices,n,i+1,k,dp);                    // Kch nhi kia only agey badhgya 
-        return dp[i][k]=max(c1,c2);
-    }
-    else{
-        // agar k==1 : Yni ki Sell wla case banega 
-        int c1=fun(prices,n,i+1,k-1,dp)+prices[i];         // Sell kardi toh badhega hi 
-        int c2=fun(prices,n,i+1,k,dp);                     // Kch bhi nhi kia 
-        return dp[i][k]=max(c1,c2);
-    }
-}
-
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        int k=2;                // No. of transactions likhdoo
-        // 2D arry bna lo (matrix) of size n+1*k+1
+        int k=2;                           // No. of Transactions 2 hi hai
+        //2D arry(matrix) bna lo of the size n+1*k+1
         vector<vector<int>>dp(n+1,vector<int>(k+1,-1));
 
-        int profit=fun(prices,n,0,k,dp);           // Recursive Func call kardo 
-        return profit;                             // Max Profit nikal do as ans 
+        // Base Case: Agar last row tak pahunch gye, toh zero se fill kardo
+        for(int j=0;j<=k;j++){
+            dp[n][j]=0;                    // Nth Row ko pura Zero hi kardo
+        }
+        // Agar k==0 hai : Yni ki transaction ab kch hai hi nhi
+        for(int i=0;i<=n;i++){
+            dp[i][0]=0;
+        }
+
+        // Ab bakki sabko Reverse Order mein fill karna hai
+        for(int i=n-1;i>=0;i--){
+            for(int j=1;j<=k;j++){
+                if(j==2){
+                    // Buy wla Case hua
+                    int c1=dp[i+1][j-1]-prices[i];         // Buy karlia
+                    int c2=dp[i+1][j];                     // Simply agey badhey without buying
+                    dp[i][j]=max(c1,c2);
+                }
+                else if(j==1){
+                    // Toh Sell karney ka Case hai
+                    int c1=dp[i+1][j-1]+prices[i];         // Sell kardia hai
+                    int c2=dp[i+1][j];                     // Simply agey badho without selling
+                    dp[i][j]=max(c1,c2);
+                }
+            }
+        }
+        return dp[0][2];                               // Final Max Profit
     }
 };
