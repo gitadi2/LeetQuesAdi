@@ -1,42 +1,35 @@
-// By the Memoization Method in DP
-
 class Solution {
 public:
-int fun(vector<int>&prices,int n,int i,int k,vector<vector<int>>&dp){
-    // Base case lelo: jab hum last din par reach kar gye 
-    if(i==n){
-        return 0;
-    }
-    // Agar Trans k no. 0 hogya 
-    if(k==0){
-        return 0;
-    }
-    // Ab Dekhlo ki Dp Array mein hai ki nhi 
-    if(dp[i][k]!=-1){
-        // yani ki present hai 
-        return dp[i][k];
-    }
-    // Ab buy wla case 
-    if(k%2==0){
-        // Even hai ; toh buy wla case hai 
-        int c1=fun(prices,n,i+1,k-1,dp)-prices[i];              // Buy Kardia 
-        int c2=fun(prices,n,i+1,k,dp);                          // Kch nhi kia without buying 
-        return dp[i][k]=max(c1,c2);
-    }
-    else{
-        // Yani ki odd hai: Toh Sell wla case banega 
-        int c1=fun(prices,n,i+1,k-1,dp)+prices[i];               // Sell kardia 
-        int c2=fun(prices,n,i+1,k,dp);                            // Simpply agey badha without selling 
-        return dp[i][k]=max(c1,c2);
-    }
-}
-
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        int k=4;                                       // Atmost 2 hai toh 4 hojaega 
-        // 2D arry (Matrix) of DP bna lo of size n+1*k+1
-        vector<vector<int>>dp(n+1,vector<int>(k+1,-1));
-        int profit=fun(prices,n,0,k,dp);                // Recursivce function call kardo
-        return profit;                                  // Max Profit return kardo as answer
+        int k=4;                        // atmost 2 hai so 4 no. of transactions as combo(buy-sell typos)
+        // 2D Array(matrix)of size n+1*k+1 bna lo 
+        vector<vector<int>>dp(n+1,vector<int>(k+1));
+        // Base case: jab hum last din mei agye hai 
+        for(int j=0;j<=k;j++){
+            dp[n][j]=0;                     // Nth row ko 0 se hi fill kardo completely 
+        }
+        // Agar no. of the Transactions hi 0 hogye 
+        for(int i=0;i<=n;i++){
+            dp[i][0]=0;                  // if k==0 hogya then return 0 hoga toh fill that too 
+        }
+        // Ab Reverse order mein fill krna hai 
+        for(int i=n-1;i>=0;i--){
+            for(int j=1;j<=k;j++){
+                if(j%2==0){
+                    // Jab even hua: Toh Buy wla case banega 
+                    int c1=dp[i+1][j-1]-prices[i];                    // Buy kardia 
+                    int c2=dp[i+1][j];                                // Simply agey badho without buying
+                    dp[i][j]=max(c1,c2);
+                }
+                else{
+                    // Odd hi hoga :Toh ell wla Case banega 
+                    int c1=dp[i+1][j-1]+prices[i];                   // Sell kardia 
+                    int c2=dp[i+1][j];                               // Simply agey badho without selling 
+                    dp[i][j]=max(c1,c2);
+                }
+            }
+        }
+        return dp[0][k];                                            // Max Profit return kardo 
     }
 };
