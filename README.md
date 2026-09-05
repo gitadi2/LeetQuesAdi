@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/gitadi2/LeetQuesAdi/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/gitadi2/LeetQuesAdi/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/gitadi2/LeetQuesAdi/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gitadi2/LeetQuesAdi/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/gitadi2/LeetQuesAdi/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/gitadi2/LeetQuesAdi/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/gitadi2/LeetQuesAdi/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/gitadi2/LeetQuesAdi/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/gitadi2/LeetQuesAdi/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/gitadi2/LeetQuesAdi/tree/master/0994-rotting-oranges) |
