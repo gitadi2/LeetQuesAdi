@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/gitadi2/LeetQuesAdi/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/gitadi2/LeetQuesAdi/tree/master/0127-word-ladder) |
 | [0383-ransom-note](https://github.com/gitadi2/LeetQuesAdi/tree/master/0383-ransom-note) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/gitadi2/LeetQuesAdi/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gitadi2/LeetQuesAdi/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/gitadi2/LeetQuesAdi/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitadi2/LeetQuesAdi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
