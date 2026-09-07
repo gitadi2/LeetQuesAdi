@@ -1,45 +1,38 @@
-// By Memoization Method in DP
+// By the Tabulation Method In DP
 
 class Solution {
 public:
-int fun(vector<int>&cuts,int i,int j, vector<vector<int>>&dp){
-    // base Case: agar Out of Range hai 
-    if(i>j){
-        return 0;
-    }
-    // Dekhlo ki DP Matrix mein present hai ki nhi 
-    if(dp[i][j]!=-1){
-        return dp[i][j];
-    }
-
-    int res=INT_MAX;                         // Res ko set kardo at max 
-    // Ab i and j range k beech kahin se bhi kaat sktey hai lests say @'k'
-    for(int k=i;k<=j;k++){
-        int cost=cuts[j+1]-cuts[i-1];
-        int r=cost+fun(cuts,i,k-1,dp)+fun(cuts,k+1,j,dp);    // Temp ans store karlo from costs jo mila hai 
-        res=min(res,r);                                     // Res ko upadate kardo 
-    }
-    return dp[i][j]=res;
-}
-
     int minCost(int n, vector<int>& c) {
-        vector<int>cuts;                        // Cuts k arry mei agey peechey add karna hai tabhi ese lo 
-        cuts.push_back(0);                      // Array k shuru mei y daldo 
+        vector<int>cuts;                      // Cuts ka Arry bna lo 
 
-        // Ab arry k elements ko hi daldo 
+        cuts.push_back(0);                     // Nye cuts arry mein 0 as start dalo 
+        
+        // Cuts Array ko pura daldo 
         for(int i=0;i<c.size();i++){
-            cuts.push_back(c[i]);   
+            cuts.push_back(c[i]);
         }
 
-        // Ab Array k end mein bhi length of the stick daldo 
-        cuts.push_back(n);
+        cuts.push_back(n);                      // Length of the Cuts array ko last cell mein daldo 
 
-        sort(cuts.begin(),cuts.end());              // Sort karlo cuts array ko 
-        int s=cuts.size();                          // Cuts Array ka size with new added elemnts 
+        sort(cuts.begin(),cuts.end());         // Sort Kardo 
+        int s=cuts.size();                     // Cuts wley Array ka size Including the New elements
 
-        vector<vector<int>>dp(s,vector<int>(s,-1));     // 2D array(matrix) of size s*s bna lo with -1 ele
+        vector<vector<int>>dp(s,vector<int>(s,0));    // 2D Array(matrix) odf DP bna lo 
 
-        // Recursive Function Call kardo 
-        return fun(cuts,1,s-2,dp);
+        for(int i=s-2;i>=1;i--){
+            for(int j=i;j<=s-2;j++){
+                int res=INT_MAX;               // res ko INT_MAX set kardo 
+
+                for(int k=i;k<=j;k++){
+                    // Matlab ki i and j ke khin beech se kata @'k'
+                    int cost=cuts[j+1]-cuts[i-1];
+                    int r=cost+dp[i][k-1]+dp[k+1][j];        // Temp ans store karlo 
+
+                    res=min(res,r);                         // Update kardo         
+                }
+                dp[i][j]=res;                      
+            }
+        }
+        return dp[1][s-2];                            
     }
 };
