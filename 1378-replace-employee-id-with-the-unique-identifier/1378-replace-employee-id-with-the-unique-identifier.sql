@@ -1,7 +1,7 @@
-# Write your MySQL query statement below
-SELECT unique_id,name
+/* Write your PL/SQL query statement below */
+SELECT eu.unique_id,e.name
 FROM 
-Employees AS e
+Employees e
 LEFT JOIN
-EmployeeUNI AS eu
+EmployeeUNI eu
 ON e.id=eu.id
