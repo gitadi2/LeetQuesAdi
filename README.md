@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gitadi2/LeetQuesAdi/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gitadi2/LeetQuesAdi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gitadi2/LeetQuesAdi/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gitadi2/LeetQuesAdi/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gitadi2/LeetQuesAdi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/gitadi2/LeetQuesAdi/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gitadi2/LeetQuesAdi/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gitadi2/LeetQuesAdi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gitadi2/LeetQuesAdi/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gitadi2/LeetQuesAdi/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gitadi2/LeetQuesAdi/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gitadi2/LeetQuesAdi/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gitadi2/LeetQuesAdi/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gitadi2/LeetQuesAdi/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1872-stone-game-viii](https://github.com/gitadi2/LeetQuesAdi/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gitadi2/LeetQuesAdi/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/gitadi2/LeetQuesAdi/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Memoization
 |  |
