@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/gitadi2/LeetQuesAdi/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/gitadi2/LeetQuesAdi/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/gitadi2/LeetQuesAdi/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/gitadi2/LeetQuesAdi/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/gitadi2/LeetQuesAdi/tree/master/0875-koko-eating-bananas) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/gitadi2/LeetQuesAdi/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/gitadi2/LeetQuesAdi/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/gitadi2/LeetQuesAdi/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
