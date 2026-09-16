@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/gitadi2/LeetQuesAdi/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/gitadi2/LeetQuesAdi/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/gitadi2/LeetQuesAdi/tree/master/0973-k-closest-points-to-origin) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gitadi2/LeetQuesAdi/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/gitadi2/LeetQuesAdi/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gitadi2/LeetQuesAdi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/1143-longest-common-subsequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gitadi2/LeetQuesAdi/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gitadi2/LeetQuesAdi/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/gitadi2/LeetQuesAdi/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gitadi2/LeetQuesAdi/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gitadi2/LeetQuesAdi/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gitadi2/LeetQuesAdi/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gitadi2/LeetQuesAdi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search Tree
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gitadi2/LeetQuesAdi/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/gitadi2/LeetQuesAdi/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/gitadi2/LeetQuesAdi/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3904-smallest-stable-index-ii) |
