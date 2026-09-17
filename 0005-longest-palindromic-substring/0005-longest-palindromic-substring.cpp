@@ -1,40 +1,34 @@
-// By Brute Force Approach
+// By Two Pointer Approach (MOST OPTIMIZED APPROACH)
 
 class Solution {
 public:
-    bool fun(string&s,int l,int r){
-        while(l<r){
-            if(s[l]!=s[r]){
-                // Agar equal hai hi nhi
-                return false;
+    void fun(string&s,int l,int r,int&start,int&maxLen){
+        while(l>=0 && r<s.size() && s[l]==s[r]){
+            // Current palindrome ki length
+            int len=r-l+1;
+            // Agar current palindrome longest hai
+            if(len>maxLen){
+                start=l;
+                maxLen=len;
             }
-            // Agar equal hai ya nhi bhi hai agey toh badhega hii
-            l++;
-            r--;
+            // Dono pointers ko expand karo
+            l--;
+            r++;
         }
-        // Pura check hone ke baad palindrome hai
-        return true;
     }
 
-    string longestPalindrome(string s) {
+    string longestPalindrome(string s){
         int n=s.size();
-        string res="";         // Resultant String shuru mein khali lelo
+
+        int start=0;             // Longest palindrome ka starting index
+        int maxLen=1;            // Initially ek character palindrome hai
 
         for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-
-                if(fun(s,i,j)){
-                    // Agar y hold hua yani palindrome hai string
-
-                    if(j-i+1>res.size()){
-                        // Check karo ki current substring ki length
-                        // res se badi hai toh longest hai
-
-                        res=s.substr(i,j-i+1);
-                    }
-                }
-            }
+            // Odd length palindrome ke liye
+            fun(s,i,i,start,maxLen);
+            // Even length palindrome ke liye
+            fun(s,i,i+1,start,maxLen);
         }
-        return res;            // Longest substring return kardo
+        return s.substr(start,maxLen);
     }
 };
