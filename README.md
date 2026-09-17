@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gitadi2/LeetQuesAdi/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/gitadi2/LeetQuesAdi/tree/master/0115-distinct-subsequences) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gitadi2/LeetQuesAdi/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/gitadi2/LeetQuesAdi/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0125-valid-palindrome) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gitadi2/LeetQuesAdi/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/0055-jump-game) |
@@ -656,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/gitadi2/LeetQuesAdi/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/gitadi2/LeetQuesAdi/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/gitadi2/LeetQuesAdi/tree/master/1757-recyclable-and-low-fat-products) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gitadi2/LeetQuesAdi/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
