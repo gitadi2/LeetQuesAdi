@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gitadi2/LeetQuesAdi/tree/master/1189-maximum-number-of-balloons) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gitadi2/LeetQuesAdi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gitadi2/LeetQuesAdi/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gitadi2/LeetQuesAdi/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gitadi2/LeetQuesAdi/tree/master/1189-maximum-number-of-balloons) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gitadi2/LeetQuesAdi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gitadi2/LeetQuesAdi/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gitadi2/LeetQuesAdi/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gitadi2/LeetQuesAdi/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/gitadi2/LeetQuesAdi/tree/master/0860-lemonade-change) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gitadi2/LeetQuesAdi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gitadi2/LeetQuesAdi/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/gitadi2/LeetQuesAdi/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gitadi2/LeetQuesAdi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gitadi2/LeetQuesAdi/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gitadi2/LeetQuesAdi/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
