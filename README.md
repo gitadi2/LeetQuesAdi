@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/gitadi2/LeetQuesAdi/tree/master/0127-word-ladder) |
 | [0383-ransom-note](https://github.com/gitadi2/LeetQuesAdi/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0940-distinct-subsequences-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gitadi2/LeetQuesAdi/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/gitadi2/LeetQuesAdi/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/gitadi2/LeetQuesAdi/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/gitadi2/LeetQuesAdi/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gitadi2/LeetQuesAdi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/gitadi2/LeetQuesAdi/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/gitadi2/LeetQuesAdi/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gitadi2/LeetQuesAdi/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/1143-longest-common-subsequence) |
@@ -696,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
