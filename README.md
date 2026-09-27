@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/gitadi2/LeetQuesAdi/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/gitadi2/LeetQuesAdi/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gitadi2/LeetQuesAdi/tree/master/0455-assign-cookies) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/gitadi2/LeetQuesAdi/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/gitadi2/LeetQuesAdi/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0169-majority-element) |
