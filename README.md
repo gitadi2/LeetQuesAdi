@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/gitadi2/LeetQuesAdi/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gitadi2/LeetQuesAdi/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/gitadi2/LeetQuesAdi/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/gitadi2/LeetQuesAdi/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gitadi2/LeetQuesAdi/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/gitadi2/LeetQuesAdi/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/gitadi2/LeetQuesAdi/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gitadi2/LeetQuesAdi/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/gitadi2/LeetQuesAdi/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/gitadi2/LeetQuesAdi/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/gitadi2/LeetQuesAdi/tree/master/0231-power-of-two) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gitadi2/LeetQuesAdi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gitadi2/LeetQuesAdi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
