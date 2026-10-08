@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gitadi2/LeetQuesAdi/tree/master/1189-maximum-number-of-balloons) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/gitadi2/LeetQuesAdi/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gitadi2/LeetQuesAdi/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
