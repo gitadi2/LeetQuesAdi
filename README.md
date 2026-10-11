@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/gitadi2/LeetQuesAdi/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/gitadi2/LeetQuesAdi/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gitadi2/LeetQuesAdi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gitadi2/LeetQuesAdi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
