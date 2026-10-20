@@ -1,18 +1,15 @@
-// Brute Force Approach 
+// Better Soln (Using The Sorting Approach)
 
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int n=nums.size();
-        unordered_map<int,int>mpp;        // Unordered HashMap bna lo 
-        // Traverse through the Array 
-        for(int i=0;i<n;i++){
-            mpp[nums[i]]++;                 // Hashmap mein fre daldo 
+        sort(nums.begin(),nums.end());              // Sort in the ascending order for the nums array
+        // Traverse through the array from the index 1 
+        for(int i=1;i<n;i=i+3){
+            if(nums[i]!=nums[i-1]) return nums[i-1];   //...Agr curr prev equal nhi hai toh breakage hai
         }
-        // Ab HashMap mein Traverse krna hai 
-        for(auto it:mpp){
-            if(it.second==1) return it.first;
-        }
-        return 0; 
+        //..Agr continuity maintain hoti rahi 
+        return nums[n-1];       // ...Last Element hi Single occurence wla ekle hai 
     }
 };
