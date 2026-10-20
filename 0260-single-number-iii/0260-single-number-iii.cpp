@@ -1,0 +1,19 @@
+//...Brute Force Soln (Hashing)...
+
+class Solution {
+public:
+    vector<int> singleNumber(vector<int>& nums) {
+       int n=nums.size();
+       unordered_map<int,int>mpp;         //...Unordered HahMap bna lia ...
+       //..Traverse the Array...
+       for(int i=0;i<n;i++){
+        mpp[nums[i]]++;               //... Array k ele ko freq. k sath daloo...
+       } 
+       vector<int>ans;            //...List of ans bnas lo , shuru mei empty...
+       //.. Iterate through the HashMap...
+       for(auto it:mpp){
+        if(it.second==1) ans.push_back(it.first);
+       }
+       return ans;   
+    }
+};
