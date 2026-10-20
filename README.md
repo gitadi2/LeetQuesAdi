@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gitadi2/LeetQuesAdi/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/gitadi2/LeetQuesAdi/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0347-top-k-frequent-elements) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/gitadi2/LeetQuesAdi/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/gitadi2/LeetQuesAdi/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gitadi2/LeetQuesAdi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gitadi2/LeetQuesAdi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
