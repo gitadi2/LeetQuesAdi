@@ -1,17 +1,12 @@
-// BruteForce Soln
+//...Bettr Soln (using the Sorting Approach)
 
 class Solution {
     public int singleNumber(int[] nums) {
         int n=nums.length;
-        HashMap<Integer,Integer>mpp=new HashMap<>();      //HasHmap bna lo 
-        //Ab Traverse Through the Array 
-        for(int i=0;i<n;i++){
-            mpp.put(nums[i],mpp.getOrDefault(nums[i],0)+1);       // HashMap mein freq k sath daltey chl
+        Arrays.sort(nums);
+        for(int i=1;i<n;i=i+3){
+            if(nums[i]!=nums[i-1]) return nums[i-1];
         }
-        // Ab Traverse in the HashMap 
-        for(Map.Entry<Integer,Integer> it:mpp.entrySet()){
-            if(it.getValue()==1) return it.getKey();
-        }
-        return 0;
+        return nums[n-1];
     }
 }
