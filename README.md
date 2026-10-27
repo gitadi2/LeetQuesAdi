@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/gitadi2/LeetQuesAdi/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/gitadi2/LeetQuesAdi/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gitadi2/LeetQuesAdi/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitadi2/LeetQuesAdi/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gitadi2/LeetQuesAdi/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/gitadi2/LeetQuesAdi/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/gitadi2/LeetQuesAdi/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/1096-brace-expansion-ii) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/gitadi2/LeetQuesAdi/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/gitadi2/LeetQuesAdi/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/gitadi2/LeetQuesAdi/tree/master/0191-number-of-1-bits) |
