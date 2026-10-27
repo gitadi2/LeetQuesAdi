@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gitadi2/LeetQuesAdi/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/gitadi2/LeetQuesAdi/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/gitadi2/LeetQuesAdi/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/gitadi2/LeetQuesAdi/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gitadi2/LeetQuesAdi/tree/master/0070-climbing-stairs) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/gitadi2/LeetQuesAdi/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/gitadi2/LeetQuesAdi/tree/master/0191-number-of-1-bits) |
