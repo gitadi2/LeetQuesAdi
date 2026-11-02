@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gitadi2/LeetQuesAdi/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gitadi2/LeetQuesAdi/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/gitadi2/LeetQuesAdi/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/0540-single-element-in-a-sorted-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/gitadi2/LeetQuesAdi/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gitadi2/LeetQuesAdi/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/gitadi2/LeetQuesAdi/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/gitadi2/LeetQuesAdi/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0658-find-k-closest-elements) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/gitadi2/LeetQuesAdi/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/gitadi2/LeetQuesAdi/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/gitadi2/LeetQuesAdi/tree/master/0292-nim-game) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/gitadi2/LeetQuesAdi/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/gitadi2/LeetQuesAdi/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/gitadi2/LeetQuesAdi/tree/master/0836-rectangle-overlap) |
