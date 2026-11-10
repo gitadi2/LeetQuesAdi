@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gitadi2/LeetQuesAdi/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/gitadi2/LeetQuesAdi/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/gitadi2/LeetQuesAdi/tree/master/1882-process-tasks-using-servers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gitadi2/LeetQuesAdi/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gitadi2/LeetQuesAdi/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/gitadi2/LeetQuesAdi/tree/master/1882-process-tasks-using-servers) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gitadi2/LeetQuesAdi/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gitadi2/LeetQuesAdi/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
