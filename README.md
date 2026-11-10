@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gitadi2/LeetQuesAdi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/gitadi2/LeetQuesAdi/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gitadi2/LeetQuesAdi/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gitadi2/LeetQuesAdi/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gitadi2/LeetQuesAdi/tree/master/3875-construct-uniform-parity-array-i) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gitadi2/LeetQuesAdi/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/gitadi2/LeetQuesAdi/tree/master/3524-find-x-value-of-array-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/gitadi2/LeetQuesAdi/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3693-climbing-stairs-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
