@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gitadi2/LeetQuesAdi/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gitadi2/LeetQuesAdi/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gitadi2/LeetQuesAdi/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gitadi2/LeetQuesAdi/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gitadi2/LeetQuesAdi/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/gitadi2/LeetQuesAdi/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gitadi2/LeetQuesAdi/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/gitadi2/LeetQuesAdi/tree/master/1882-process-tasks-using-servers) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gitadi2/LeetQuesAdi/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gitadi2/LeetQuesAdi/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gitadi2/LeetQuesAdi/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Graph Coloring
 |  |
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gitadi2/LeetQuesAdi/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
