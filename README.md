@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gitadi2/LeetQuesAdi/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/gitadi2/LeetQuesAdi/tree/master/1267-count-servers-that-communicate) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gitadi2/LeetQuesAdi/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/gitadi2/LeetQuesAdi/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/gitadi2/LeetQuesAdi/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/gitadi2/LeetQuesAdi/tree/master/1046-last-stone-weight) |
+| [1267-count-servers-that-communicate](https://github.com/gitadi2/LeetQuesAdi/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gitadi2/LeetQuesAdi/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitadi2/LeetQuesAdi/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/gitadi2/LeetQuesAdi/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/gitadi2/LeetQuesAdi/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/gitadi2/LeetQuesAdi/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/gitadi2/LeetQuesAdi/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitadi2/LeetQuesAdi/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gitadi2/LeetQuesAdi/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/gitadi2/LeetQuesAdi/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gitadi2/LeetQuesAdi/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gitadi2/LeetQuesAdi/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1267-count-servers-that-communicate](https://github.com/gitadi2/LeetQuesAdi/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gitadi2/LeetQuesAdi/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gitadi2/LeetQuesAdi/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gitadi2/LeetQuesAdi/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/gitadi2/LeetQuesAdi/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/gitadi2/LeetQuesAdi/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gitadi2/LeetQuesAdi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gitadi2/LeetQuesAdi/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -641,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/gitadi2/LeetQuesAdi/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/gitadi2/LeetQuesAdi/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gitadi2/LeetQuesAdi/tree/master/0785-is-graph-bipartite) |
+| [1267-count-servers-that-communicate](https://github.com/gitadi2/LeetQuesAdi/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/gitadi2/LeetQuesAdi/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gitadi2/LeetQuesAdi/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
