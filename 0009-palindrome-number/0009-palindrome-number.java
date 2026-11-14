@@ -1,23 +1,20 @@
-// Brute Force (String + Two Pointers)
+// Optimal (Reverse Half of the Number)
 
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x<0){
+        if(x<0 || (x%10==0 && x!=0)){
             return false;
         }
-        String s=String.valueOf(x);
-        int n=s.length();
+        int rev=0;
 
-        int i=0;
-        int j=n-1;
-
-        while(i<j){
-            if(s.charAt(i)!=s.charAt(j)){
-                return false;
-            }
-            i++;
-            j--;
+        while(x>rev){
+            int rem=x%10;
+            rev=rev*10+rem;
+            x=x/10;
         }
-        return true;
+        if(x==rev || x==rev/10){
+            return true;
+        }
+        return false;
     }
 }
