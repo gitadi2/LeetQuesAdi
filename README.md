@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/gitadi2/LeetQuesAdi/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/gitadi2/LeetQuesAdi/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/gitadi2/LeetQuesAdi/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/gitadi2/LeetQuesAdi/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/gitadi2/LeetQuesAdi/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0409-longest-palindrome) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/gitadi2/LeetQuesAdi/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/gitadi2/LeetQuesAdi/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/gitadi2/LeetQuesAdi/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/gitadi2/LeetQuesAdi/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/gitadi2/LeetQuesAdi/tree/master/0678-valid-parenthesis-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/gitadi2/LeetQuesAdi/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0208-implement-trie-prefix-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/gitadi2/LeetQuesAdi/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/gitadi2/LeetQuesAdi/tree/master/0692-top-k-frequent-words) |
 ## Geometry
 |  |
